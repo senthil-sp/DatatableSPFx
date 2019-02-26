@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "datatables-itrequests",
+    "libraryId": "65bc164f-28c3-41eb-a1cb-6acc44dde8ce",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
