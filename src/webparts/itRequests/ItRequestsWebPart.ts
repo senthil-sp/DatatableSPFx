@@ -22,6 +22,7 @@ export default class ItRequestsWebPart extends BaseClientSideWebPart<IItRequests
   public render(): void {
     this.domElement.innerHTML = `
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css" />
+    <div><h3>Welcome to new SPFx webpart with datatable!!!</h3></div>
     <table id="requests" class="display ${styles.itRequests}" cellspacing="0" width="100%">
         <thead>
             <tr>
